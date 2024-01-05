@@ -11,8 +11,12 @@
             "id": "bee7ed3e18260d93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kitchen Stuff to buy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kitchen Stuff to buy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kitchen Stuff to buy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kitchen Stuff to buy.md"
+              }
             }
           },
           {
@@ -148,21 +156,21 @@
   },
   "active": "bee7ed3e18260d93",
   "lastOpenFiles": [
+    "Apartment/Kitchen Stuff to buy.md",
     "Apartment/Pasted image 20231229183824.png",
     "Apartment/Pasted image 20231229183830.png",
-    "Apartment/Kitchen Stuff to buy.md",
-    "Apartment",
-    "apartment-ideas",
-    "Untitled.md",
     "Apartment/Decoration Ideas.canvas",
-    "Apartment/Attachments/Pasted image 20231229181257.png",
-    "Apartment/Attachments/Pasted image 20231229181356.png",
-    "Apartment/Attachments/Pasted image 20231229182003.png",
-    "Apartment/Attachments/Pasted image 20231229182208.png",
-    "Apartment/Attachments/Pasted image 20231229182758.png",
     "Apartment/Attachments/Pasted image 20231229182919.png",
     "Apartment/Attachments/Pasted image 20231229182838.png",
-    "Apartment/Attachments/Pasted image 20231229175813.png",
-    "Apartment/Attachments"
+    "Apartment/Attachments/Pasted image 20231229182758.png",
+    "Apartment/Attachments/Pasted image 20231229182547.png",
+    "Apartment/Attachments/Pasted image 20231229182208.png",
+    "Apartment/Attachments/Pasted image 20231229182003.png",
+    "Apartment/Attachments/Pasted image 20231229181356.png",
+    "Apartment/Attachments/Pasted image 20231229181257.png",
+    "Apartment/Attachments",
+    "Apartment",
+    "apartment-ideas",
+    "Untitled.md"
   ]
 }
