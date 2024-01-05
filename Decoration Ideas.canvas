@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"7af1084ec3da91d5","type":"group","x":-40,"y":160,"width":1860,"height":2480,"label":"Living Room"},
+		{"id":"f8360982d94741ab","type":"group","x":1920,"y":1260,"width":1380,"height":1320,"label":"Bedroom"},
+		{"id":"9ae94be3f11cbc1f","type":"group","x":40,"y":1260,"width":1700,"height":900,"label":"Floating Shelves"},
+		{"id":"f5fb9ec25984bb67","type":"group","x":1920,"y":160,"width":1160,"height":980,"label":"Kitchen"},
+		{"id":"56c82ab74bd271d5","type":"group","x":700,"y":220,"width":920,"height":980,"label":"Sofa - Coffee Table"},
+		{"id":"553a404b8ebe43eb","type":"group","x":40,"y":220,"width":620,"height":980,"label":"TV Area"},
+		{"id":"1e3bdc0c6d4d2a03","type":"file","file":"Apartment/Kitchen Stuff to buy.md","x":1960,"y":200,"width":740,"height":820},
+		{"id":"639ec8edf4c798ac","type":"file","file":"Apartment/Attachments/Pasted image 20231229182208.png","x":300,"y":530,"width":320,"height":399},
+		{"id":"c44f799faec90bdb","type":"file","file":"Apartment/Attachments/Pasted image 20231229180357.png","x":60,"y":530,"width":220,"height":330},
+		{"id":"d3258d505db073c3","type":"file","file":"Apartment/Attachments/Pasted image 20231229175813.png","x":60,"y":270,"width":240,"height":240},
+		{"id":"e11f0373dd4eaa71","type":"file","file":"Apartment/Attachments/Pasted image 20231229182838.png","x":773,"y":1719,"width":400,"height":400},
+		{"id":"cddb591597650fbe","type":"link","url":"https://www.ikea.com/il/he/p/kullen-chest-of-2-drawers-white-80309241/","x":1980,"y":1320,"width":380,"height":600},
+		{"id":"5151dec8f1261015","type":"link","url":"https://www.ikea.com/il/he/p/malm-chest-of-2-drawers-white-stained-oak-veneer-10178601/","x":2400,"y":1320,"width":420,"height":600},
+		{"id":"5b36874f307cd21f","type":"link","url":"https://www.ikea.com/il/he/p/lampan-table-lamp-white-20046988/","x":2840,"y":1320,"width":400,"height":600},
+		{"id":"e4d53b75d7d744e6","type":"link","url":"https://www.ikea.com/il/he/p/simrishamn-table-lamp-chrome-plated-opal-white-glass-00437676/","x":1980,"y":1980,"width":380,"height":520},
+		{"id":"c0eb52afdd12fce6","type":"text","text":"Only the Coffe table here...","x":1275,"y":240,"width":250,"height":60},
+		{"id":"6bd62872a83a8183","type":"file","file":"Apartment/Attachments/Pasted image 20231229175900.png","x":320,"y":270,"width":240,"height":240},
+		{"id":"71fac45962f06921","type":"file","file":"Apartment/Attachments/Pasted image 20231229180708.png","x":1240,"y":330,"width":320,"height":400},
+		{"id":"d75d8da914438157","type":"file","file":"Apartment/Attachments/Pasted image 20231229180914.png","x":740,"y":270,"width":440,"height":587},
+		{"id":"2946dc89c5b5567e","type":"file","file":"Apartment/Attachments/Pasted image 20231229181356.png","x":500,"y":1280,"width":300,"height":399},
+		{"id":"120d9082b5c67575","type":"file","file":"Apartment/Attachments/Pasted image 20231229181257.png","x":60,"y":1281,"width":400,"height":400},
+		{"id":"fc7172a51091f668","type":"file","file":"Apartment/Attachments/Pasted image 20231229182758.png","x":840,"y":1281,"width":266,"height":399},
+		{"id":"657c5ce6c21f62d0","type":"file","file":"Apartment/Attachments/Pasted image 20231229182003.png","x":60,"y":1720,"width":320,"height":399},
+		{"id":"040ba9cd4ba83b6e","type":"file","file":"Apartment/Attachments/Pasted image 20231229182547.png","x":420,"y":1719,"width":320,"height":400}
+	],
+	"edges":[]
+}
