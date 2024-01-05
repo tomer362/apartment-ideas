@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "0b55fbb5056713ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc71f35d4934e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bee7ed3e18260d93",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75c94abd0747ee74",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa0ffcaa06d23ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7282b27d769bf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e9ae08e05c5198e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b805229d47fbd32c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7b4b79bda02ddc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b06ec8bbd45106c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47524043d5827d54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08f406b8f0336b74",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cff83f51648e2b25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4ff95ab172c9643f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0f813558f060f43",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bee7ed3e18260d93",
+  "lastOpenFiles": [
+    "Apartment/Pasted image 20231229183824.png",
+    "Apartment/Pasted image 20231229183830.png",
+    "Apartment/Kitchen Stuff to buy.md",
+    "Apartment",
+    "apartment-ideas",
+    "Untitled.md",
+    "Apartment/Decoration Ideas.canvas",
+    "Apartment/Attachments/Pasted image 20231229181257.png",
+    "Apartment/Attachments/Pasted image 20231229181356.png",
+    "Apartment/Attachments/Pasted image 20231229182003.png",
+    "Apartment/Attachments/Pasted image 20231229182208.png",
+    "Apartment/Attachments/Pasted image 20231229182758.png",
+    "Apartment/Attachments/Pasted image 20231229182919.png",
+    "Apartment/Attachments/Pasted image 20231229182838.png",
+    "Apartment/Attachments/Pasted image 20231229175813.png",
+    "Apartment/Attachments"
+  ]
+}
